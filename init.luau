@@ -1,4 +1,4 @@
-
+--Actor with Main.client would be directly parented under this module
 
 local Bindable = Instance.new("BindableEvent",script)
 local ReturnBindable = Instance.new("BindableEvent",script)
